@@ -11,6 +11,8 @@ ML Engineer | Applied Mechanics (M.Tech, IIT Madras) | Ex - Simulation Engineer 
 ![](https://github-readme-stats.vercel.app/api?username=Mafaz03&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mafaz03&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mafaz03&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Mafaz03)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mafaz03&limit=5&theme=dark&combine_all_yearly_contributions=true)
