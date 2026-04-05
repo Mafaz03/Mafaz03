@@ -1,5 +1,5 @@
 # 💫 About Me:
-ML Engineer | Applied Mechanics (M.Tech, IIT Madras) | Sports Data Science Intern @Neuralport | Ex - Simulation Engineer @Botlab Dynamics <br><br>🔭 Current Work<br>Working on DeepSeek-OCR from scratch<br><br>🌱 Learning<br>MATLAB · C++<br>
+ML Engineer | Applied Mechanics (M.Tech, IIT Madras) | Sports Data Science Intern @Neuralport | Ex - Simulation Engineer @Botlab Dynamics <br><br>🔭 Current Work<br>Working on Physics Informed Neural Networks<br><br>🌱 Learning<br>MATLAB · C++<br>
 
 
 ## 🌐 Socials:
@@ -20,4 +20,3 @@ ML Engineer | Applied Mechanics (M.Tech, IIT Madras) | Sports Data Science Inter
 ---
 [![](https://visitcount.itsvg.in/api?id=Mafaz03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
