@@ -20,3 +20,6 @@ ML Engineer | Applied Mechanics (M.Tech, IIT Madras) | Ex - Sports Data Science 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mafaz03&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### Leetcode
+![LeetCode 50 Days Badge](https://assets.leetcode.com/static_assets/others/50.gif)
+
