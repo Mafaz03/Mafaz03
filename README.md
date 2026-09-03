@@ -22,4 +22,5 @@ ML Engineer | Applied Mechanics (M.Tech, IIT Madras) | Ex - Sports Data Science 
 
 ### Leetcode
 ![LeetCode 50 Days Badge](https://assets.leetcode.com/static_assets/others/50.gif)
+![LeetCode 100 Days Badge](https://assets.leetcode.com/static_assets/others/100.gif)
 
